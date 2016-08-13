@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Lobster);
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  text-align: center;
+  font-family: "Average", serif;
+
+}
+h1{
+  font-family: "April Fatface", sans-serif;
+  color: green;
+}
+.title{
+  font-size: 5em;
+}
+
+.btn{
+  font-size: inherit;
+  color: white;
+  background-color: green;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.guess {
+  height: 10em;
+  display: block;
+  margin: 0 auto;
+}
